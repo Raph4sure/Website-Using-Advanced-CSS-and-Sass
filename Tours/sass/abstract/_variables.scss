@@ -5,6 +5,7 @@ $color-primary-dark: #2854b4;
 
 $color-secondary-light: #2E3192;
 $color-secondary-dark:#1BFFFF;
+$color-secondary-dark-2:#ff6f1b;
 
 $color-tertiary-light:#D4145A;
 $color-tertiary-dark: #FBB03B;
@@ -13,8 +14,13 @@ $color-grey-light-1: #f7f7f7;
 $color-grey-light-2: #eee;
 
 $color-grey-dark: #777;
+$color-grey-dark-2:#999;
+
 $color-white: #fff;
 $color-black: #000;
+
+// CAPTION COLOR
+$color-bright: #ffff00;
 
 // FONT
 $default-font-size: 1.6rem;
@@ -23,3 +29,4 @@ $default-font-size: 1.6rem;
 $grid-width: 114rem;
 $gutter-vertical: 8rem;
 $gutter-horizontal: 6rem;
+
